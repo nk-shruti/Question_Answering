@@ -1,0 +1,11 @@
+data/*
+scripts/*.pyc
+glove/*
+*.h5
+*.model
+*.png
+scripts/att_timemodel.py
+scripts/redata.py
+*.pkl
+*.json
+*.vec

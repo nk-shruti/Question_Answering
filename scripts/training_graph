@@ -1,0 +1,75 @@
+Epoch 1/50
+1249/1250 [============================>.] - ETA: 7s - loss: 8.1423 - as_loss: 4.1873 - ae_loss: 3.9549 - as_acc: 0.0765 - ae_acc: 0.0834 Epoch 00000: val_loss improved from inf to 7.51314, saving model to bestval.h5
+1250/1250 [==============================] - 9623s - loss: 8.1417 - as_loss: 4.1870 - ae_loss: 3.9547 - as_acc: 0.0765 - ae_acc: 0.0835 - val_loss: 7.5131 - val_as_loss: 3.8935 - val_ae_loss: 3.6196 - val_as_acc: 0.1058 - val_ae_acc: 0.1180
+Epoch 2/50
+1249/1250 [============================>.] - ETA: 7s - loss: 7.1840 - as_loss: 3.7117 - ae_loss: 3.4723 - as_acc: 0.1405 - ae_acc: 0.1553 Epoch 00001: val_loss improved from 7.51314 to 6.67953, saving model to bestval.h5
+1250/1250 [==============================] - 9582s - loss: 7.1831 - as_loss: 3.7113 - ae_loss: 3.4718 - as_acc: 0.1406 - ae_acc: 0.1554 - val_loss: 6.6795 - val_as_loss: 3.4646 - val_ae_loss: 3.2150 - val_as_acc: 0.1715 - val_ae_acc: 0.1929
+Epoch 3/50
+1249/1250 [============================>.] - ETA: 7s - loss: 6.6366 - as_loss: 3.4417 - ae_loss: 3.1949 - as_acc: 0.1800 - ae_acc: 0.1959 Epoch 00002: val_loss improved from 6.67953 to 6.27357, saving model to bestval.h5
+1250/1250 [==============================] - 9632s - loss: 6.6365 - as_loss: 3.4416 - ae_loss: 3.1949 - as_acc: 0.1800 - ae_acc: 0.1959 - val_loss: 6.2736 - val_as_loss: 3.2616 - val_ae_loss: 3.0120 - val_as_acc: 0.2020 - val_ae_acc: 0.2339
+Epoch 4/50
+1249/1250 [============================>.] - ETA: 7s - loss: 6.3086 - as_loss: 3.2687 - ae_loss: 3.0399 - as_acc: 0.2068 - ae_acc: 0.2281 Epoch 00003: val_loss improved from 6.27357 to 6.15054, saving model to bestval.h5
+1250/1250 [==============================] - 9622s - loss: 6.3080 - as_loss: 3.2683 - ae_loss: 3.0397 - as_acc: 0.2069 - ae_acc: 0.2281 - val_loss: 6.1505 - val_as_loss: 3.1979 - val_ae_loss: 2.9526 - val_as_acc: 0.2091 - val_ae_acc: 0.2477
+Epoch 5/50
+1249/1250 [============================>.] - ETA: 7s - loss: 6.0678 - as_loss: 3.1453 - ae_loss: 2.9225 - as_acc: 0.2276 - ae_acc: 0.2464 Epoch 00004: val_loss improved from 6.15054 to 5.91372, saving model to bestval.h5
+1250/1250 [==============================] - 9596s - loss: 6.0685 - as_loss: 3.1456 - ae_loss: 2.9228 - as_acc: 0.2276 - ae_acc: 0.2463 - val_loss: 5.9137 - val_as_loss: 3.0718 - val_ae_loss: 2.8419 - val_as_acc: 0.2298 - val_ae_acc: 0.2704
+Epoch 6/50
+1249/1250 [============================>.] - ETA: 7s - loss: 5.8799 - as_loss: 3.0463 - ae_loss: 2.8336 - as_acc: 0.2462 - ae_acc: 0.2661 Epoch 00005: val_loss improved from 5.91372 to 5.73706, saving model to bestval.h5
+1250/1250 [==============================] - 9637s - loss: 5.8798 - as_loss: 3.0464 - ae_loss: 2.8334 - as_acc: 0.2462 - ae_acc: 0.2661 - val_loss: 5.7371 - val_as_loss: 2.9719 - val_ae_loss: 2.7652 - val_as_acc: 0.2622 - val_ae_acc: 0.2808
+Epoch 7/50
+1249/1250 [============================>.] - ETA: 7s - loss: 5.6796 - as_loss: 2.9467 - ae_loss: 2.7329 - as_acc: 0.2630 - ae_acc: 0.2851 Epoch 00006: val_loss improved from 5.73706 to 5.67648, saving model to bestval.h5
+1250/1250 [==============================] - 9659s - loss: 5.6797 - as_loss: 2.9467 - ae_loss: 2.7330 - as_acc: 0.2631 - ae_acc: 0.2852 - val_loss: 5.6765 - val_as_loss: 2.9554 - val_ae_loss: 2.7210 - val_as_acc: 0.2511 - val_ae_acc: 0.2892
+Epoch 8/50
+1249/1250 [============================>.] - ETA: 7s - loss: 5.4779 - as_loss: 2.8379 - ae_loss: 2.6400 - as_acc: 0.2854 - ae_acc: 0.3068 Epoch 00007: val_loss improved from 5.67648 to 5.40623, saving model to bestval.h5
+1250/1250 [==============================] - 9664s - loss: 5.4780 - as_loss: 2.8380 - ae_loss: 2.6400 - as_acc: 0.2854 - ae_acc: 0.3068 - val_loss: 5.4062 - val_as_loss: 2.8171 - val_ae_loss: 2.5891 - val_as_acc: 0.2780 - val_ae_acc: 0.3199
+Epoch 9/50
+1249/1250 [============================>.] - ETA: 7s - loss: 5.3353 - as_loss: 2.7609 - ae_loss: 2.5744 - as_acc: 0.2969 - ae_acc: 0.3202 Epoch 00008: val_loss improved from 5.40623 to 5.21576, saving model to bestval.h5
+1250/1250 [==============================] - 9612s - loss: 5.3349 - as_loss: 2.7605 - ae_loss: 2.5743 - as_acc: 0.2971 - ae_acc: 0.3202 - val_loss: 5.2158 - val_as_loss: 2.7044 - val_ae_loss: 2.5113 - val_as_acc: 0.3085 - val_ae_acc: 0.3346
+Epoch 10/50
+1249/1250 [============================>.] - ETA: 7s - loss: 5.1333 - as_loss: 2.6595 - ae_loss: 2.4738 - as_acc: 0.3211 - ae_acc: 0.3432 Epoch 00009: val_loss improved from 5.21576 to 5.13922, saving model to bestval.h5
+1250/1250 [==============================] - 9625s - loss: 5.1328 - as_loss: 2.6594 - ae_loss: 2.4735 - as_acc: 0.3211 - ae_acc: 0.3433 - val_loss: 5.1392 - val_as_loss: 2.6744 - val_ae_loss: 2.4648 - val_as_acc: 0.3194 - val_ae_acc: 0.3417
+Epoch 11/50
+1249/1250 [============================>.] - ETA: 7s - loss: 4.9517 - as_loss: 2.5690 - ae_loss: 2.3827 - as_acc: 0.3371 - ae_acc: 0.3636 Epoch 00010: val_loss improved from 5.13922 to 4.90911, saving model to bestval.h5
+1250/1250 [==============================] - 9836s - loss: 4.9513 - as_loss: 2.5688 - ae_loss: 2.3826 - as_acc: 0.3371 - ae_acc: 0.3635 - val_loss: 4.9091 - val_as_loss: 2.5456 - val_ae_loss: 2.3635 - val_as_acc: 0.3365 - val_ae_acc: 0.3745
+Epoch 12/50
+1249/1250 [============================>.] - ETA: 7s - loss: 4.7306 - as_loss: 2.4554 - ae_loss: 2.2752 - as_acc: 0.3653 - ae_acc: 0.3926 Epoch 00011: val_loss improved from 4.90911 to 4.69149, saving model to bestval.h5
+1250/1250 [==============================] - 9885s - loss: 4.7307 - as_loss: 2.4554 - ae_loss: 2.2752 - as_acc: 0.3653 - ae_acc: 0.3925 - val_loss: 4.6915 - val_as_loss: 2.4456 - val_ae_loss: 2.2459 - val_as_acc: 0.3621 - val_ae_acc: 0.3963
+Epoch 13/50
+1249/1250 [============================>.] - ETA: 7s - loss: 4.5205 - as_loss: 2.3508 - ae_loss: 2.1698 - as_acc: 0.3888 - ae_acc: 0.4197 Epoch 00012: val_loss improved from 4.69149 to 4.46201, saving model to bestval.h5
+1250/1250 [==============================] - 9672s - loss: 4.5208 - as_loss: 2.3509 - ae_loss: 2.1699 - as_acc: 0.3887 - ae_acc: 0.4197 - val_loss: 4.4620 - val_as_loss: 2.3216 - val_ae_loss: 2.1404 - val_as_acc: 0.3982 - val_ae_acc: 0.4321
+Epoch 14/50
+1249/1250 [============================>.] - ETA: 7s - loss: 4.3023 - as_loss: 2.2372 - ae_loss: 2.0651 - as_acc: 0.4132 - ae_acc: 0.4451 Epoch 00013: val_loss improved from 4.46201 to 4.21504, saving model to bestval.h5
+1250/1250 [==============================] - 9635s - loss: 4.3026 - as_loss: 2.2374 - ae_loss: 2.0653 - as_acc: 0.4133 - ae_acc: 0.4452 - val_loss: 4.2150 - val_as_loss: 2.1972 - val_ae_loss: 2.0179 - val_as_acc: 0.4197 - val_ae_acc: 0.4573
+Epoch 15/50
+1249/1250 [============================>.] - ETA: 7s - loss: 4.1121 - as_loss: 2.1418 - ae_loss: 1.9703 - as_acc: 0.4375 - ae_acc: 0.4715 Epoch 00014: val_loss improved from 4.21504 to 4.07359, saving model to bestval.h5
+1250/1250 [==============================] - 9677s - loss: 4.1118 - as_loss: 2.1417 - ae_loss: 1.9701 - as_acc: 0.4376 - ae_acc: 0.4716 - val_loss: 4.0736 - val_as_loss: 2.1063 - val_ae_loss: 1.9673 - val_as_acc: 0.4422 - val_ae_acc: 0.4817
+Epoch 16/50
+1249/1250 [============================>.] - ETA: 7s - loss: 3.9070 - as_loss: 2.0390 - ae_loss: 1.8679 - as_acc: 0.4601 - ae_acc: 0.4942 Epoch 00015: val_loss improved from 4.07359 to 3.90553, saving model to bestval.h5
+1250/1250 [==============================] - 9647s - loss: 3.9069 - as_loss: 2.0388 - ae_loss: 1.8681 - as_acc: 0.4601 - ae_acc: 0.4941 - val_loss: 3.9055 - val_as_loss: 2.0349 - val_ae_loss: 1.8706 - val_as_acc: 0.4686 - val_ae_acc: 0.5088
+Epoch 17/50
+1249/1250 [============================>.] - ETA: 7s - loss: 3.7237 - as_loss: 1.9459 - ae_loss: 1.7778 - as_acc: 0.4804 - ae_acc: 0.5182 Epoch 00016: val_loss improved from 3.90553 to 3.73786, saving model to bestval.h5
+1250/1250 [==============================] - 9660s - loss: 3.7236 - as_loss: 1.9459 - ae_loss: 1.7777 - as_acc: 0.4804 - ae_acc: 0.5183 - val_loss: 3.7379 - val_as_loss: 1.9359 - val_ae_loss: 1.8019 - val_as_acc: 0.4850 - val_ae_acc: 0.5198
+Epoch 18/50
+1249/1250 [============================>.] - ETA: 7s - loss: 3.5682 - as_loss: 1.8606 - ae_loss: 1.7076 - as_acc: 0.4990 - ae_acc: 0.5353 Epoch 00017: val_loss improved from 3.73786 to 3.61484, saving model to bestval.h5
+1250/1250 [==============================] - 9598s - loss: 3.5686 - as_loss: 1.8608 - ae_loss: 1.7078 - as_acc: 0.4989 - ae_acc: 0.5352 - val_loss: 3.6148 - val_as_loss: 1.8780 - val_ae_loss: 1.7369 - val_as_acc: 0.4970 - val_ae_acc: 0.5356
+Epoch 19/50
+1249/1250 [============================>.] - ETA: 7s - loss: 3.4721 - as_loss: 1.8182 - ae_loss: 1.6539 - as_acc: 0.5111 - ae_acc: 0.5484 Epoch 00018: val_loss improved from 3.61484 to 3.49068, saving model to bestval.h5
+1250/1250 [==============================] - 9731s - loss: 3.4716 - as_loss: 1.8178 - ae_loss: 1.6537 - as_acc: 0.5111 - ae_acc: 0.5484 - val_loss: 3.4907 - val_as_loss: 1.8142 - val_ae_loss: 1.6765 - val_as_acc: 0.5119 - val_ae_acc: 0.5494
+Epoch 20/50
+1249/1250 [============================>.] - ETA: 7s - loss: 3.3421 - as_loss: 1.7451 - ae_loss: 1.5970 - as_acc: 0.5298 - ae_acc: 0.5633 Epoch 00019: val_loss improved from 3.49068 to 3.46791, saving model to bestval.h5
+1250/1250 [==============================] - 9872s - loss: 3.3421 - as_loss: 1.7452 - ae_loss: 1.5969 - as_acc: 0.5297 - ae_acc: 0.5633 - val_loss: 3.4679 - val_as_loss: 1.8121 - val_ae_loss: 1.6558 - val_as_acc: 0.5150 - val_ae_acc: 0.5493
+Epoch 21/50
+1249/1250 [============================>.] - ETA: 7s - loss: 3.2396 - as_loss: 1.6964 - ae_loss: 1.5432 - as_acc: 0.5389 - ae_acc: 0.5737 Epoch 00020: val_loss did not improve
+1250/1250 [==============================] - 9899s - loss: 3.2397 - as_loss: 1.6964 - ae_loss: 1.5433 - as_acc: 0.5390 - ae_acc: 0.5737 - val_loss: 3.4733 - val_as_loss: 1.7927 - val_ae_loss: 1.6806 - val_as_acc: 0.5155 - val_ae_acc: 0.5361
+Epoch 22/50
+1249/1250 [============================>.] - ETA: 7s - loss: 3.1428 - as_loss: 1.6434 - ae_loss: 1.4994 - as_acc: 0.5492 - ae_acc: 0.5827 Epoch 00021: val_loss improved from 3.46791 to 3.37340, saving model to bestval.h5
+1250/1250 [==============================] - 9735s - loss: 3.1427 - as_loss: 1.6435 - ae_loss: 1.4992 - as_acc: 0.5492 - ae_acc: 0.5828 - val_loss: 3.3734 - val_as_loss: 1.7433 - val_ae_loss: 1.6301 - val_as_acc: 0.5255 - val_ae_acc: 0.5614
+Epoch 23/50
+1249/1250 [============================>.] - ETA: 7s - loss: 3.0620 - as_loss: 1.6058 - ae_loss: 1.4562 - as_acc: 0.5557 - ae_acc: 0.5952 Epoch 00022: val_loss did not improve
+1250/1250 [==============================] - 9643s - loss: 3.0622 - as_loss: 1.6059 - ae_loss: 1.4563 - as_acc: 0.5557 - ae_acc: 0.5953 - val_loss: 3.4029 - val_as_loss: 1.7654 - val_ae_loss: 1.6375 - val_as_acc: 0.5395 - val_ae_acc: 0.5688
+Epoch 24/50
+1249/1250 [============================>.] - ETA: 7s - loss: 2.9991 - as_loss: 1.5709 - ae_loss: 1.4283 - as_acc: 0.5647 - ae_acc: 0.6011 Epoch 00023: val_loss improved from 3.37340 to 3.31585, saving model to bestval.h5
+1250/1250 [==============================] - 9646s - loss: 3.0001 - as_loss: 1.5715 - ae_loss: 1.4287 - as_acc: 0.5645 - ae_acc: 0.6010 - val_loss: 3.3159 - val_as_loss: 1.7235 - val_ae_loss: 1.5924 - val_as_acc: 0.5421 - val_ae_acc: 0.5779
+Epoch 25/50
+1249/1250 [============================>.] - ETA: 7s - loss: 2.9151 - as_loss: 1.5307 - ae_loss: 1.3845 - as_acc: 0.5754 - ae_acc: 0.6172 Epoch 00024: val_loss did not improve
+1250/1250 [==============================] - 9593s - loss: 2.9152 - as_loss: 1.5306 - ae_loss: 1.3846 - as_acc: 0.5754 - ae_acc: 0.6171 - val_loss: 3.3742 - val_as_loss: 1.7590 - val_ae_loss: 1.6152 - val_as_acc: 0.5340 - val_ae_acc: 0.5715
